@@ -1,7 +1,3 @@
-// SO IN1 20B LAB07
-// Jakub Kleban
-// kj49865@zut.edu.pl
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
